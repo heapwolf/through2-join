@@ -1,5 +1,5 @@
 # SYNOPSIS
-Produce a stream of intersecting data of two or more delimited json streams.
+Produce a stream of intersecting data from two or more delimited json streams.
 
 # EXAMPLE
 ```js
