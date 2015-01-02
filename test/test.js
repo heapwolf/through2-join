@@ -20,6 +20,7 @@ var myjoin = join(function(chunk, enc, cb) {
 var expected = [
   {"number":75,"color":"blue"},
   {"number":60,"color":"green"},
+  {"number":85,"color":"blue"},
   {"number":85,"color":"blue"}
 ];
 

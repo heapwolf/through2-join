@@ -1,6 +1,6 @@
 {
   "name": "through2-join",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Produce a stream of intersecting data of two or more delimited json streams",
   "main": "index.js",
   "scripts": {

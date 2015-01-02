@@ -24,7 +24,6 @@ module.exports = function(opts, transform) {
 
       if (!Array.isArray(arguments[0])) {
         streams = [].slice.call(arguments);
-        last = streams.pop();
       }
 
       if (transform) {
