@@ -3,7 +3,7 @@ Produce a stream of intersecting data of two or more delimited json streams.
 
 # EXAMPLE
 ```js
-var join = require('./index');
+var join = require('through2-join');
 var fs = require('fs');
 
 var s1 = fs.createReadStream('./1.json');
