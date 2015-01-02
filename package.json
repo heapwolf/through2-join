@@ -1,0 +1,15 @@
+{
+  "name": "through2-join",
+  "version": "1.0.0",
+  "description": "Produce a stream of intersecting data of two or more delimited json streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "author": "hij1nx",
+  "license": "MIT",
+  "dependencies": {
+    "JSONStream": "^0.10.0",
+    "through2": "^0.6.3"
+  }
+}
